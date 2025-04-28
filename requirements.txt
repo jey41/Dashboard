@@ -1,4 +1,5 @@
-fastapi[standard]
-uvicorn
-pydantic
-scikit-learn
+streamlit
+pandas
+matplotlib
+seaborn
+numpy
